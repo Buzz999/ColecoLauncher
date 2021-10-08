@@ -64,7 +64,7 @@ It as been compiled with Visual Studio Code for the Atmega328 16MHz 5V target.
 The following libraies are necessary:
 Adafruit BusIO
 Adafruit GFX Library
-Adafruit SS1306
+Adafruit SSD1306
 
 Have fun !
 Buzz
